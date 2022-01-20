@@ -2,7 +2,7 @@
 
 namespace Capstone_Project.Controllers
 {
-    public class User : Controller
+    public class UserController : Controller
     {
         public IActionResult Index()
         {
