@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jordan Glad\\source\\capstone_project\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
+    "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jordan Glad\\source\\capstone_project\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
+    "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jordan Glad\\source\\capstone_project\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
         "projectName": "Capstone_Project",
-        "projectPath": "C:\\Users\\Jordan Glad\\source\\capstone_project\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "projectPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
         "packagesPath": "C:\\Users\\Jordan Glad\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jordan Glad\\source\\capstone_project\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
+        "outputPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jordan Glad\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,13 +44,17 @@
               "target": "Package",
               "version": "[3.1.20, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
@@ -58,11 +62,21 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.0, )"
             }
           },
           "imports": [
