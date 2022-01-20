@@ -9638,19 +9638,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jordan Glad\\.nuget\\packages\\": {}
+    "C:\\Users\\scott\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+      "projectUniqueName": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
       "projectName": "Capstone_Project",
-      "projectPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
-      "packagesPath": "C:\\Users\\Jordan Glad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
+      "projectPath": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+      "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jordan Glad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9733,7 +9733,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
