@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
+    "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
+    "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "projectUniqueName": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
         "projectName": "Capstone_Project",
-        "projectPath": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
-        "packagesPath": "C:\\Users\\scott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\scott\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
+        "projectPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\Capstone_Project.csproj",
+        "packagesPath": "C:\\Users\\Jordan Glad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jordan Glad\\Source\\Repos\\LaunchCode_Capstone\\Capstone_Project\\Capstone_Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\scott\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Jordan Glad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,11 +46,11 @@
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
@@ -58,11 +58,17 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.20, )"
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [
@@ -83,7 +89,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
