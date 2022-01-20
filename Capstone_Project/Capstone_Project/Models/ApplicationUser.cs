@@ -1,6 +1,9 @@
-﻿namespace Capstone_Project.Models
+﻿using Microsoft.AspNetCore.Identity;
+
+namespace Capstone_Project.Models
 {
-    public class ApplicationUser
+    public class ApplicationUser: IdentityUser
     {
+  
     }
 }
